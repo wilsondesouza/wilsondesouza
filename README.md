@@ -1,6 +1,8 @@
 <div>
   <h1>Hello, I'm Wilson.  </h1> <a href="https://www.linkedin.com/in/wilson-souza-junior-28702619b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:wilson.de.souza.junior@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:wilson.de.souza.junior@gmail.com"><img src="https://img.shields.io/badge/Curriculum-%23037725?style=for-the-badge&logo=&logoColor=white" target="_blank"></a>
+  
   <h2>Welcome to my Profile.</h2>
 </div>
 <div>
