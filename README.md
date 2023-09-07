@@ -34,7 +34,8 @@
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-  <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="AWS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg">
 
 <br>
 
@@ -44,4 +45,4 @@
 [![Repo Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=wilsondesouza&repo=projeto_js_e_react&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=2269A9&text_color=FFFF)](https://github.com/wilsondesouza/projeto_js_e_reacte)
 [![Repo Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=wilsondesouza&repo=Descubra-seu-dano&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=2269A9&text_color=FFF)](https://github.com/wilsondesouza/Descubra-seu-dano)
 [![Repo Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=wilsondesouza&repo=App-Python&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=2269A9&text_color=FFF)](https://github.com/wilsondesouza/App-Python) 
-[![Repo Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=wilsondesouza&repo=meuappflutter&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=2269A9&text_color=FFF)](https://github.com/wilsondesouza/meuappflutter)
+[![Repo Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=wilsondesouza&repo=lavajato_sandes&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=2269A9&text_color=FFF)](https://github.com/wilsondesouza/lavajato_sandes)
