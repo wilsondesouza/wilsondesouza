@@ -25,6 +25,7 @@
 <div align="center">
   <a href="https://github.com/wilsondesouza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wilsondesouza&show_icons=true&theme=blue_navy&include_all_commits=true&count_private=true"/>
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilsondesouza&layout=compact&langs_count=7&theme=blue_navy"/>
 </div>
     
@@ -43,9 +44,9 @@
 <br>
 
 ## Principais Projetos
-[![Repo Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=wilsondesouza&repo=mini_projeto&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=2269A9&text_color=FFF)](https://github.com/wilsondesouza/mini_projeto)
-[![Repo Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=wilsondesouza&repo=projeto_html_css_bootstrap&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=2269A9&text_color=FFF)](https://github.com/wilsondesouza/projeto_html_css_bootstrap)
-[![Repo Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=wilsondesouza&repo=projeto_js_e_react&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=2269A9&text_color=FFFF)](https://github.com/wilsondesouza/projeto_js_e_react)
-[![Repo Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=wilsondesouza&repo=Descubra-seu-dano&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=2269A9&text_color=FFF)](https://github.com/wilsondesouza/Descubra-seu-dano)
-[![Repo Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=wilsondesouza&repo=App-Python&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=2269A9&text_color=FFF)](https://github.com/wilsondesouza/App-Python) 
-[![Repo Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=wilsondesouza&repo=lavajato_sandes&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=2269A9&text_color=FFF)](https://github.com/wilsondesouza/lavajato_sandes)
+[![Loja SoLapada](https://github-readme-stats.vercel.app/api/pin/?username=wilsondesouza&repo=mini_projeto&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=2269A9&text_color=FFF)](https://github.com/wilsondesouza/mini_projeto)
+[![Universo do Saber - Bootstrap](https://github-readme-stats.vercel.app/api/pin/?username=wilsondesouza&repo=projeto_html_css_bootstrap&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=2269A9&text_color=FFF)](https://github.com/wilsondesouza/projeto_html_css_bootstrap)
+[![Universo do Saber - React](https://github-readme-stats.vercel.app/api/pin/?username=wilsondesouza&repo=projeto_js_e_react&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=2269A9&text_color=FFFF)](https://github.com/wilsondesouza/projeto_js_e_react)
+[![Calculadora DST](https://github-readme-stats.vercel.app/api/pin/?username=wilsondesouza&repo=Descubra-seu-dano&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=2269A9&text_color=FFF)](https://github.com/wilsondesouza/Descubra-seu-dano)
+[![Apps Python](https://github-readme-stats.vercel.app/api/pin/?username=wilsondesouza&repo=App-Python&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=2269A9&text_color=FFF)](https://github.com/wilsondesouza/App-Python) 
+[![Guarda Dados](https://github-readme-stats.vercel.app/api/pin/?username=wilsondesouza&repo=guarda_dados&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=2269A9&text_color=FFF)](https://github.com/wilsondesouza/guarda_dados)
