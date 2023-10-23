@@ -41,13 +41,15 @@
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="AWS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
 
 <br>
 
 ## Principais Projetos
 [![Loja SoLapada](https://github-readme-stats.vercel.app/api/pin/?username=wilsondesouza&repo=mini_projeto&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=2269A9&text_color=FFF)](https://github.com/wilsondesouza/mini_projeto)
-[![Universo do Saber - Bootstrap](https://github-readme-stats.vercel.app/api/pin/?username=wilsondesouza&repo=projeto_html_css_bootstrap&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=2269A9&text_color=FFF)](https://github.com/wilsondesouza/projeto_html_css_bootstrap)
 [![Universo do Saber - React](https://github-readme-stats.vercel.app/api/pin/?username=wilsondesouza&repo=projeto_js_e_react&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=2269A9&text_color=FFFF)](https://github.com/wilsondesouza/projeto_js_e_react)
+[![Guarda Dados](https://github-readme-stats.vercel.app/api/pin/?username=wilsondesouza&repo=guarda_dados&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=2269A9&text_color=FFF)](https://github.com/wilsondesouza/guarda_dados)
+[![Lista de Contatos](https://github-readme-stats.vercel.app/api/pin/?username=wilsondesouza&repo=listadecontatos&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=2269A9&text_color=FFF)](https://github.com/wilsondesouza/listadecontatos)
 [![Calculadora DST](https://github-readme-stats.vercel.app/api/pin/?username=wilsondesouza&repo=Descubra-seu-dano&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=2269A9&text_color=FFF)](https://github.com/wilsondesouza/Descubra-seu-dano)
 [![Apps Python](https://github-readme-stats.vercel.app/api/pin/?username=wilsondesouza&repo=App-Python&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=2269A9&text_color=FFF)](https://github.com/wilsondesouza/App-Python) 
-[![Guarda Dados](https://github-readme-stats.vercel.app/api/pin/?username=wilsondesouza&repo=guarda_dados&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=2269A9&text_color=FFF)](https://github.com/wilsondesouza/guarda_dados)
+
