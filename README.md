@@ -40,7 +40,7 @@
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src=" https://www.svgrepo.com/show/303251/mysql-logo.svg">
+  <img align="center" alt="MySQL" height="30" width="40" src="https://www.svgrepo.com/show/303251/mysql-logo.svg">
   <img align="center" alt="AWS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg">
   <img align="center" alt="Azure" height="30" width="40" src="https://www.svgrepo.com/show/353467/azure-icon.svg">
   <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
