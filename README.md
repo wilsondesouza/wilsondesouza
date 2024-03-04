@@ -9,7 +9,7 @@
 <div>
   <p><b>PT-BR</b></p>
   <p>Iniciante no mundo da programação. Decidi começar a estudar a área de T.I quando ingressei na graduação de Engenharia da Computação. 
-    Atualmente estou no segundo período e buscando um estágio.</p>
+    Atualmente estou no terceiro período e buscando um estágio.</p>
   <p>Organizado e sistemático. Ético e profissional. Investigativo, Convencional e Realístico</p>
 </div>
 
@@ -17,7 +17,7 @@
 <div>
   <p><b>ENG</b></p>
   <p>Beginner in the world of programming. I decided to start studying in the IT area when I entered the Computer Engineering graduation.
-    I am currently in second period and looking for an internship.</p>
+    I am currently in third semester and looking for an internship.</p>
   Organized and systematic. Ethical and professional. Investigative, Conventional e Realistic</p>
 </div>
   
@@ -25,14 +25,11 @@
 
 <div align="center">
   <a href="https://github.com/wilsondesouza">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=wilsondesouza&show_icons=true&theme=blue_navy&include_all_commits=true&count_private=true"/>
-
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=wilsondesouza&layout=compact&langs_count=7&theme=blue_navy"/>
-
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=wilsondesouza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilsondesouza&layout=compact&langs_count=7&theme=dark"/>
 </div>
     
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
     <h2>Tecnologias</h2>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
