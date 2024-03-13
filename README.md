@@ -77,10 +77,14 @@
 
 <div><br>
     <h2>Cursos</h2>
-  <img align="center" alt="Java+AWS" height="100" src="https://hermes.dio.me/tracks/8df7f59a-4572-4085-b6c1-f735e2dc23d9.png">
-  <img align="center" alt="Flutter+Santander" height="100" src="https://hermes.dio.me/tracks/235f721b-49df-4a30-a711-7b947ea63410.png">
-  <img align="center" alt="Jogos+iFood" height="100" src="https://hermes.dio.me/tracks/83f8150a-6429-4c1a-9207-d5bff610f647.png">
-  <img align="center" alt="I.A" height="100" src="https://hermes.dio.me/tracks/4deb40de-7fb6-4229-a6a5-97185381d577.png">
+  <img align="center" alt="Python" height="75" src="https://images.credly.com/size/340x340/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png">
+  <img align="center" alt="Java+AWS" height="75" src="https://hermes.dio.me/tracks/8df7f59a-4572-4085-b6c1-f735e2dc23d9.png">
+  <img align="center" alt="Flutter+Santander" height="75" src="https://hermes.dio.me/tracks/235f721b-49df-4a30-a711-7b947ea63410.png">
+  <img align="center" alt="Jogos+iFood" height="75" src="https://hermes.dio.me/tracks/83f8150a-6429-4c1a-9207-d5bff610f647.png">
+  <img align="center" alt="I.A" height="75" src="https://hermes.dio.me/tracks/4deb40de-7fb6-4229-a6a5-97185381d577.png">
+  <img align="center" alt="Azure" height="75" src="https://hermes.dio.me/tracks/4d998d5c-36c1-497b-8da0-8db465c820eb.png">
+  <img align="center" alt="GPT" height="75" src="https://hermes.dio.me/tracks/90d15bc9-7eb9-4f23-a8f3-270e21549699.png">
+  
 </div>
 <br>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=10e082&height=120&section=foote"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0d6efd&height=120&section=foote"/>
