@@ -40,7 +40,7 @@
         <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
         <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <br>
-  <img src="teste.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+  <img src="assets/imgs/laptop.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
       <h3>Frameworks</h3>
         <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
         <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -77,13 +77,14 @@
 
 <div><br>
     <h2>Cursos</h2>
-  <img align="center" alt="Python" height="75" src="https://images.credly.com/size/340x340/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png">
-  <img align="center" alt="Java+AWS" height="75" src="https://hermes.dio.me/tracks/8df7f59a-4572-4085-b6c1-f735e2dc23d9.png">
-  <img align="center" alt="Flutter+Santander" height="75" src="https://hermes.dio.me/tracks/235f721b-49df-4a30-a711-7b947ea63410.png">
-  <img align="center" alt="Jogos+iFood" height="75" src="https://hermes.dio.me/tracks/83f8150a-6429-4c1a-9207-d5bff610f647.png">
-  <img align="center" alt="I.A" height="75" src="https://hermes.dio.me/tracks/4deb40de-7fb6-4229-a6a5-97185381d577.png">
-  <img align="center" alt="Azure" height="75" src="https://hermes.dio.me/tracks/4d998d5c-36c1-497b-8da0-8db465c820eb.png">
-  <img align="center" alt="GPT" height="75" src="https://hermes.dio.me/tracks/90d15bc9-7eb9-4f23-a8f3-270e21549699.png">
+
+  <a href="assets/courses/Python.pdf"><img align="center" alt="Python" height="75" src="https://images.credly.com/size/340x340/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png"></a>
+  <a href="assets/courses/Java com AWS.pdf"><img align="center" alt="Java+AWS" height="75" src="https://hermes.dio.me/tracks/8df7f59a-4572-4085-b6c1-f735e2dc23d9.png"></a>
+  <a href="assets/courses/Santander Flutter.pdf"><img align="center" alt="Flutter+Santander" height="75" src="https://hermes.dio.me/tracks/235f721b-49df-4a30-a711-7b947ea63410.png"></a>
+  <a href="assets/courses/Jogos.pdf"><img align="center" alt="Jogos+iFood" height="75" src="https://hermes.dio.me/tracks/83f8150a-6429-4c1a-9207-d5bff610f647.png"></a>
+  <a href="assets/courses/Fundamentos I.A.pdf"><img align="center" alt="I.A" height="75" src="https://hermes.dio.me/tracks/4deb40de-7fb6-4229-a6a5-97185381d577.png"></a>
+  <a href="assets/courses/AI-900.pdf"><img align="center" alt="Azure" height="75" src="https://hermes.dio.me/tracks/4d998d5c-36c1-497b-8da0-8db465c820eb.png"></a>
+  <a href="#"><img align="center" alt="GPT" height="75" src="https://hermes.dio.me/tracks/90d15bc9-7eb9-4f23-a8f3-270e21549699.png"></a>
   
 </div>
 <br>
