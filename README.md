@@ -85,7 +85,7 @@
   <a href="assets/courses/Jogos.pdf"><img align="center" alt="Jogos+iFood" height="75" src="https://hermes.dio.me/tracks/83f8150a-6429-4c1a-9207-d5bff610f647.png"></a>
   <a href="assets/courses/Fundamentos I.A.pdf"><img align="center" alt="I.A" height="75" src="https://hermes.dio.me/tracks/4deb40de-7fb6-4229-a6a5-97185381d577.png"></a>
   <a href="assets/courses/AI-900.pdf"><img align="center" alt="Azure" height="75" src="https://hermes.dio.me/tracks/4d998d5c-36c1-497b-8da0-8db465c820eb.png"></a>
-  <a href="#"><img align="center" alt="GPT" height="75" src="https://hermes.dio.me/tracks/90d15bc9-7eb9-4f23-a8f3-270e21549699.png"></a>
+  <a href="assets/courses/ChatGPT.pdf"><img align="center" alt="GPT" height="75" src="https://hermes.dio.me/tracks/90d15bc9-7eb9-4f23-a8f3-270e21549699.png"></a>
   
 </div>
 <br>
