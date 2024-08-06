@@ -84,7 +84,7 @@
 
 <div><br>
     <h2>Cursos</h2>
-  <a href="assets/courses/AWS_reStart_2.pdf"><img align="center" alt="reStart" height="75" src="https://i.ibb.co/k49jvFg/aws-restart.png"></a>
+  <a href="assets/courses/AWS_reStart_2.pdf"><img align="center" alt="reStart" height="75" src="https://images.credly.com/size/340x340/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png"></a>
   <a href="assets/courses/Godot.pdf"><img align="center" alt="Godot" height="75" src="https://hermes.dio.me/tracks/96cafabd-f528-41f2-8724-ee665769d044.png"></a>
   <a href="assets/courses/Python_AI.pdf"><img align="center" alt="Python AI" height="75" src="https://hermes.dio.me/tracks/648ef080-6c4b-4e54-bf72-34f62030f350.png"></a>
   <a href="assets/courses/Data_Analytics.pdf"><img align="center" alt="Data Analytics" height="75" src="https://hermes.dio.me/tracks/0136518c-68d6-4198-bdbe-6d982c3a1261.png"></a>
@@ -96,7 +96,7 @@
   <a href="assets/courses/Python.pdf"><img align="center" alt="Python" height="75" src="https://images.credly.com/size/340x340/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png"></a>
   <a href="assets/courses/Santander_Flutter.pdf"><img align="center" alt="Flutter Santander" height="75" src="https://hermes.dio.me/tracks/235f721b-49df-4a30-a711-7b947ea63410.png"></a>
   <a href="assets/courses/Java_AWS.pdf"><img align="center" alt="Java AWS" height="75" src="https://hermes.dio.me/tracks/8df7f59a-4572-4085-b6c1-f735e2dc23d9.png"></a>
-  <a href="assets/courses/Instituto_Nu.pdf"><img align="center" alt="FrontEnd" height="75" src="https://camo.githubusercontent.com/2846df17cf1e4fca44d200701a82527d44bc3f7f50f2457d4479d4cb3647aa66/68747470733a2f2f692e706f7374696d672e63632f35745379436a384c2f46726f6e74456e642e706e67"></a>
+  <a href="assets/courses/Instituto_Nu.pdf"><img align="center" alt="FrontEnd" height="75" src="https://i.ibb.co/zfQ8cc3/Fundamentos.png"></a>
   
   
   
