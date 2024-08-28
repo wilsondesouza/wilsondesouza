@@ -65,10 +65,10 @@
 <div>
 <h2>Principais Projetos</h2>
   
+[![Home Page](https://github-readme-stats.vercel.app/api/pin/?username=wilsondesouza&repo=home-page&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=2269A9&text_color=FFF)](https://github.com/wilsondesouza/home-page)
 [![Loja SoLapada](https://github-readme-stats.vercel.app/api/pin/?username=wilsondesouza&repo=mini_projeto&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=2269A9&text_color=FFF)](https://github.com/wilsondesouza/mini_projeto)
 [![Universo do Saber - React](https://github-readme-stats.vercel.app/api/pin/?username=wilsondesouza&repo=projeto_js_e_react&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=2269A9&text_color=FFFF)](https://github.com/wilsondesouza/projeto_js_e_react)
 [![Guarda Dados](https://github-readme-stats.vercel.app/api/pin/?username=wilsondesouza&repo=guarda_dados&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=2269A9&text_color=FFF)](https://github.com/wilsondesouza/guarda_dados)
-[![Lista de Contatos](https://github-readme-stats.vercel.app/api/pin/?username=wilsondesouza&repo=listadecontatos&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=2269A9&text_color=FFF)](https://github.com/wilsondesouza/listadecontatos)
 [![Calculadora DST](https://github-readme-stats.vercel.app/api/pin/?username=wilsondesouza&repo=Descubra-seu-dano&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=2269A9&text_color=FFF)](https://github.com/wilsondesouza/Descubra-seu-dano)
 [![Apps Python](https://github-readme-stats.vercel.app/api/pin/?username=wilsondesouza&repo=App-Python&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=2269A9&text_color=FFF)](https://github.com/wilsondesouza/App-Python) 
 </div>
@@ -84,24 +84,21 @@
 
 <div><br>
     <h2>Cursos</h2>
-  <a href="assets/courses/AWS reStart 2.pdf"><img align="center" alt="reStart" height="75" src="https://i.ibb.co/k49jvFg/aws-restart.png"></a>
-  <a href="assets/courses/Godot.pdf"><img align="center" alt="Godot" height="75" src="https://hermes.dio.me/tracks/96cafabd-f528-41f2-8724-ee665769d044.png"></a>
-  <a href="assets/courses/Python AI.pdf"><img align="center" alt="Python AI" height="75" src="https://hermes.dio.me/tracks/648ef080-6c4b-4e54-bf72-34f62030f350.png"></a>
-  <a href="assets/courses/Data Analytics.pdf"><img align="center" alt="Data Analytics" height="75" src="https://hermes.dio.me/tracks/0136518c-68d6-4198-bdbe-6d982c3a1261.png"></a>
-  <a href="assets/courses/DIO Campus Expert.pdf"><img align="center" alt="Campus Expert" height="75" src="https://hermes.dio.me/tracks/1509512e-3945-4582-8fd0-38b798893d83.png"></a>
-  <a href="assets/courses/ChatGPT.pdf"><img align="center" alt="GPT" height="75" src="https://hermes.dio.me/tracks/90d15bc9-7eb9-4f23-a8f3-270e21549699.png"></a>
-  <a href="assets/courses/AI-900.pdf"><img align="center" alt="Azure" height="75" src="https://hermes.dio.me/tracks/4d998d5c-36c1-497b-8da0-8db465c820eb.png"></a>
-  <a href="assets/courses/Fundamentos I.A.pdf"><img align="center" alt="I.A" height="75" src="https://hermes.dio.me/tracks/4deb40de-7fb6-4229-a6a5-97185381d577.png"></a>
-  <a href="assets/courses/Jogos.pdf"><img align="center" alt="Jogos iFood" height="75" src="https://hermes.dio.me/tracks/83f8150a-6429-4c1a-9207-d5bff610f647.png"></a>
-  <a href="assets/courses/Python.pdf"><img align="center" alt="Python" height="75" src="https://images.credly.com/size/340x340/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png"></a>
-  <a href="assets/courses/Santander Flutter.pdf"><img align="center" alt="Flutter Santander" height="75" src="https://hermes.dio.me/tracks/235f721b-49df-4a30-a711-7b947ea63410.png"></a>
-  <a href="assets/courses/Java com AWS.pdf"><img align="center" alt="Java AWS" height="75" src="https://hermes.dio.me/tracks/8df7f59a-4572-4085-b6c1-f735e2dc23d9.png"></a>
-  <a href="assets/courses/Instituto Nu.pdf"><img align="center" alt="FrontEnd" height="75" src="https://camo.githubusercontent.com/2846df17cf1e4fca44d200701a82527d44bc3f7f50f2457d4479d4cb3647aa66/68747470733a2f2f692e706f7374696d672e63632f35745379436a384c2f46726f6e74456e642e706e67"></a>
-  
-  
-  
-  
-  
+    <a href="assets/courses/IoT.pdf"><img align="center" alt="reStart" height="75" src="https://images.credly.com/size/340x340/images/fce226c2-0f13-4e17-b60c-24fa6ffd88cb/Intro2IoT.png"></a>
+    <a href="assets/courses/Copilot.pdf"><img align="center" alt="reStart" height="75" src="https://hermes.dio.me/tracks/e0b4ad51-a4c7-4e61-a683-c04f6d376e9c.png"></a> 
+    <a href="assets/courses/AWS reStart 2.pdf"><img align="center" alt="reStart" height="75" src="https://images.credly.com/size/340x340/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png"></a>
+    <a href="assets/courses/Godot.pdf"><img align="center" alt="Godot" height="75" src="https://hermes.dio.me/tracks/96cafabd-f528-41f2-8724-ee665769d044.png"></a>
+    <a href="assets/courses/Python AI.pdf"><img align="center" alt="Python AI" height="75" src="https://hermes.dio.me/tracks/648ef080-6c4b-4e54-bf72-34f62030f350.png"></a>
+    <a href="assets/courses/Data Analytics.pdf"><img align="center" alt="Data Analytics" height="75" src="https://hermes.dio.me/tracks/0136518c-68d6-4198-bdbe-6d982c3a1261.png"></a>
+    <a href="assets/courses/DIO Campus Expert.pdf"><img align="center" alt="Campus Expert" height="75" src="https://hermes.dio.me/tracks/1509512e-3945-4582-8fd0-38b798893d83.png"></a>
+    <a href="assets/courses/ChatGPT.pdf"><img align="center" alt="GPT" height="75" src="https://hermes.dio.me/tracks/90d15bc9-7eb9-4f23-a8f3-270e21549699.png"></a>
+    <a href="assets/courses/AI-900.pdf"><img align="center" alt="Azure" height="75" src="https://hermes.dio.me/tracks/4d998d5c-36c1-497b-8da0-8db465c820eb.png"></a>
+    <a href="assets/courses/Fundamentos I.A.pdf"><img align="center" alt="I.A" height="75" src="https://hermes.dio.me/tracks/4deb40de-7fb6-4229-a6a5-97185381d577.png"></a>
+    <a href="assets/courses/Jogos.pdf"><img align="center" alt="Jogos iFood" height="75" src="https://hermes.dio.me/tracks/83f8150a-6429-4c1a-9207-d5bff610f647.png"></a>
+    <a href="assets/courses/Python.pdf"><img align="center" alt="Python" height="75" src="https://images.credly.com/size/340x340/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png"></a>
+    <a href="assets/courses/Santander Flutter.pdf"><img align="center" alt="Flutter Santander" height="75" src="https://hermes.dio.me/tracks/235f721b-49df-4a30-a711-7b947ea63410.png"></a>
+    <a href="assets/courses/Java com AWS.pdf"><img align="center" alt="Java AWS" height="75" src="https://hermes.dio.me/tracks/8df7f59a-4572-4085-b6c1-f735e2dc23d9.png"></a>
+    <a href="assets/courses/Instituto Nu.pdf"><img align="center" alt="FrontEnd" height="75" src="https://camo.githubusercontent.com/deb6983a7650bf8ccdcf91442cde5a3c09c1ed46b6ca4658136216c65a89226c/68747470733a2f2f692e6962622e636f2f7a6651386363332f46756e64616d656e746f732e706e67"></a>
   
 </div>
 <br>
