@@ -46,7 +46,7 @@
       <h3>Web</h3>
         <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
         <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-        <img align="center" alt="Blockchain" height="30" width="40" src="https://www.veryicon.com/download/png/miscellaneous/color-work-icon/blockchain-2?s=256">
+        <img align="center" alt="Blockchain" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/8757/8757988.png">
     <br>
       <h3>Banco de Dados</h3>
         <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
