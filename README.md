@@ -12,7 +12,7 @@ I am passionate about technology and extremely focused on my goals.
 You can go know a little more about me and my projects on my [Website](https://portfolio-wilsondesouzas-projects.vercel.app/)
 
 Right now, I'm:
- - Looking for an opportunity as an internship or work
+ - Looking for an opportunity as an internship or a job.
  - Developing my own projects
  - Studying Artificial Intelligence, IoT and Blockchain
 
