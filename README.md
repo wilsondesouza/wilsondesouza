@@ -6,7 +6,6 @@
 
   ## [![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3366cc&center=true&width=435&lines=Welcome+to+my+Profile)]()  
 
-
 </div>
 
 I am passionate about technology and extremely focused on my goals.
@@ -118,4 +117,5 @@ Right now, I'm:
     <a href="assets/courses/Instituto_Nu.pdf"><img align="center" alt="FrontEnd" height="75" src="https://camo.githubusercontent.com/deb6983a7650bf8ccdcf91442cde5a3c09c1ed46b6ca4658136216c65a89226c/68747470733a2f2f692e6962622e636f2f7a6651386363332f46756e64616d656e746f732e706e67"/></a>
 </div>
 <br>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3366cc&height=120&section=foote"/>
