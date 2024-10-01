@@ -2,6 +2,7 @@
 
 ## I'm Wilson 
 [![](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wilson-souza-junior-28702619b/)[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wilson.de.souza.junior@gmail.com)[![](https://img.shields.io/badge/Curriculum-%23037725?style=for-the-badge&logo=&logoColor=white)](https://wilsondesouza.github.io/portfolio/assets/curriculum/wilsonsouzajunior_portugues.pdf)[![](https://img.shields.io/badge/Portfolio_Website-833AB4?style=for-the-badge&logo=&logoColor=white)](https://wsj.sytes.net/)
+
 [![](https://visitcount.itsvg.in/api?id=wilsondesouza&label=Profile%20Views&color=12&icon=0&pretty=true)]()
 
   ## [![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3366cc&center=true&width=435&lines=Welcome+to+my+Profile)]()  
