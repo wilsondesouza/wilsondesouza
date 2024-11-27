@@ -2,6 +2,7 @@
 
 ## I'm Wilson 
 [![](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wilson-souza-junior-28702619b/)[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wilson.de.souza.junior@gmail.com)[![](https://img.shields.io/badge/Curriculum-%23037725?style=for-the-badge&logo=&logoColor=white)](https://wilsondesouza.github.io/portfolio/assets/curriculum/wilsonsouzajunior_portugues.pdf)[![](https://img.shields.io/badge/Portfolio_Website-833AB4?style=for-the-badge&logo=&logoColor=white)](https://wsj.sytes.net/)
+
 [![](https://visitcount.itsvg.in/api?id=wilsondesouza&label=Profile%20Views&color=12&icon=0&pretty=true)]()
 
   ## [![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3366cc&center=true&width=435&lines=Welcome+to+my+Profile)]()  
@@ -91,7 +92,8 @@ Right now, I'm:
 
 <div><br>
     <h2>Courses</h2>
-    <!--<a href="assets/courses/Logica-GFT.pdf"><img align="center" alt="Lógica de Programação" height="75" src="https://hermes.dio.me/tracks/3f03e3f5-7795-4579-a25a-0e9587e0df77.png"/></a>-->
+    <a href="assets/courses/Azure_Essentials.pdf"><img align="center" alt="Azure Essentials" height="75" src="https://hermes.dio.me/tracks/73b2de55-d67a-4dcc-8bea-4a16d0c4d30c.png"/></a>
+    <a href="assets/courses/GFT_Logica.pdf"><img align="center" alt="Lógica de Programação" height="75" src="https://hermes.dio.me/tracks/3f03e3f5-7795-4579-a25a-0e9587e0df77.png"/></a>
     <a href="assets/courses/Blockchain-Specialist.pdf"><img align="center" alt="Blockchain Specialist" height="75" src="https://hermes.dio.me/tracks/6d72a32f-3562-4edd-ac14-71a7d6ec50c2.png"/></a>
     <a href="assets/courses/Web3.pdf"><img align="center" alt="Web3 Fundamentals" height="75" src="https://hermes.dio.me/tracks/e7d0c94f-621b-4956-9cd1-fc37c957a745.png"/></a>
     <a href="assets/courses/Logica.pdf"><img align="center" alt="Lógica de Programação" height="75" src="https://hermes.dio.me/tracks/977d1b41-5888-44d7-8e4c-57d2348748dc.png"/></a>
