@@ -76,10 +76,10 @@ Right now, I'm:
 <div>
 <h2>Main Projects</h2>
 
-[![Projetos Front-End](https://github-readme-stats.vercel.app/api/pin/?username=wilsondesouza&repo=projetos-frontend&border_color=3366cc&theme=dark&text_color=FFF)](https://github.com/wilsondesouza/portfolio)
+[![Projetos Front-End](https://github-readme-stats.vercel.app/api/pin/?username=wilsondesouza&repo=projetos-frontend&border_color=3366cc&theme=dark&text_color=FFF)](https://github.com/wilsondesouza/projetos-frontend)
 [![GPTalk](https://github-readme-stats.vercel.app/api/pin/?username=wilsondesouza&repo=GPTalk&border_color=3366cc&theme=dark&text_color=FFF)](https://github.com/wilsondesouza/GPTalk) 
 [![Home Page](https://github-readme-stats.vercel.app/api/pin/?username=wilsondesouza&repo=home-page&border_color=3366cc&theme=dark&text_color=FFF)](https://github.com/wilsondesouza/home-page)
-[![Power BI](https://github-readme-stats.vercel.app/api/pin/?username=wilsondesouza&repo=power-bi&border_color=3366cc&theme=dark&text_color=FFF)](https://github.com/wilsondesouza/projeto_js_e_react)
+[![Power BI](https://github-readme-stats.vercel.app/api/pin/?username=wilsondesouza&repo=power-bi&border_color=3366cc&theme=dark&text_color=FFF)](https://github.com/wilsondesouza/power-bi)
 [![Guarda Dados](https://github-readme-stats.vercel.app/api/pin/?username=wilsondesouza&repo=guarda_dados&bg_color=151515&border_color=3366cc&theme=dark&text_color=FFF)](https://github.com/wilsondesouza/guarda_dados)
 [![Calculadora DST](https://github-readme-stats.vercel.app/api/pin/?username=wilsondesouza&repo=Descubra-seu-dano&border_color=3366cc&theme=dark&text_color=FFF)](https://github.com/wilsondesouza/Descubra-seu-dano)
 
