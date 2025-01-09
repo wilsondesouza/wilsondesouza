@@ -16,7 +16,7 @@ Right now, I'm:
  - 📚 Studying Computer Engineering
  - 🏢 Looking for an opportunity as an internship or a job
  - 🚧 Developing my own projects
- - 🔬 Specializing in Artificial Intelligence and IoT
+ - 🔬 Specializing in Artificial Intelligence, IoT and Cloud.
  - 🎮 Playing Cyberpunk
  - 🎻 Looking to learn Violin
 
@@ -76,12 +76,13 @@ Right now, I'm:
 <div>
 <h2>Main Projects</h2>
 
-[![Projetos Front-End](https://github-readme-stats.vercel.app/api/pin/?username=wilsondesouza&repo=projetos-frontend&border_color=3366cc&theme=dark&text_color=FFF)](https://github.com/wilsondesouza/portfolio)
-[![GPTalk](https://github-readme-stats.vercel.app/api/pin/?username=wilsondesouza&repo=GPTalk&border_color=3366cc&theme=dark&text_color=FFF)](https://github.com/wilsondesouza/GPTalk) 
+
+[![Multi-Downloader](https://github-readme-stats.vercel.app/api/pin/?username=wilsondesouza&repo=Multi-Downloader&border_color=3366cc&theme=dark&text_color=FFF)](https://github.com/wilsondesouza/Multi-Downloader) 
 [![Home Page](https://github-readme-stats.vercel.app/api/pin/?username=wilsondesouza&repo=home-page&border_color=3366cc&theme=dark&text_color=FFF)](https://github.com/wilsondesouza/home-page)
-[![Power BI](https://github-readme-stats.vercel.app/api/pin/?username=wilsondesouza&repo=power-bi&border_color=3366cc&theme=dark&text_color=FFF)](https://github.com/wilsondesouza/projeto_js_e_react)
-[![Guarda Dados](https://github-readme-stats.vercel.app/api/pin/?username=wilsondesouza&repo=guarda_dados&bg_color=151515&border_color=3366cc&theme=dark&text_color=FFF)](https://github.com/wilsondesouza/guarda_dados)
 [![Calculadora DST](https://github-readme-stats.vercel.app/api/pin/?username=wilsondesouza&repo=Descubra-seu-dano&border_color=3366cc&theme=dark&text_color=FFF)](https://github.com/wilsondesouza/Descubra-seu-dano)
+[![Guarda Dados](https://github-readme-stats.vercel.app/api/pin/?username=wilsondesouza&repo=guarda_dados&bg_color=151515&border_color=3366cc&theme=dark&text_color=FFF)](https://github.com/wilsondesouza/guarda_dados)
+[![Projetos Front-End](https://github-readme-stats.vercel.app/api/pin/?username=wilsondesouza&repo=projetos-frontend&border_color=3366cc&theme=dark&text_color=FFF)](https://github.com/wilsondesouza/projetos-frontend)
+[![Power BI](https://github-readme-stats.vercel.app/api/pin/?username=wilsondesouza&repo=power-bi&border_color=3366cc&theme=dark&text_color=FFF)](https://github.com/wilsondesouza/power-bi)
 
 </div>
 
@@ -92,7 +93,9 @@ Right now, I'm:
 
 <div><br>
     <h2>Courses</h2>
-    <a href="assets/courses/GitHub_Copilot.pdf.pdf"><img align="center" alt="GitHub Copilot" height="75" src="https://hermes.dio.me/tracks/7054e1ad-ac10-4b36-bce0-1e8275f714bf.png"/></a>
+    <a href="assets/courses/Prompts_Inteligentes.pdf"><img align="center" alt="Prompts Inteligentes" height="75" src="https://hermes.dio.me/tracks/1d580249-1ba9-48c4-8ddc-0d7110d529bb.png"/></a>
+    <a href="assets/courses/NEXA_Analise_Imagem-IA.pdf"><img align="center" alt="Análise de Imagens - NEXA" height="75" src="https://hermes.dio.me/tracks/7079a815-f166-41e0-ac0b-6e021bb4d6a1.png"/></a>
+    <a href="assets/courses/GitHub_Copilot.pdf"><img align="center" alt="GitHub Copilot" height="75" src="https://hermes.dio.me/tracks/7054e1ad-ac10-4b36-bce0-1e8275f714bf.png"/></a>
     <a href="assets/courses/CAIXA_Copilot.pdf"><img align="center" alt="Copilot - CAIXA" height="75" src="https://hermes.dio.me/tracks/09487613-b54e-41a7-9600-b9e59449aa13.png"/></a>
     <a href="assets/courses/Front-End.pdf"><img align="center" alt="Front End" height="75" src="https://hermes.dio.me/tracks/8052db1b-f434-4980-8bbb-9f7daa725b8d.png"/></a>
     <a href="assets/courses/Azure_Advanced.pdf"><img align="center" alt="Azure Advanced" height="75" src="https://hermes.dio.me/tracks/215922b3-e6ee-4c39-85be-b35d2b5c54fa.png"/></a>
