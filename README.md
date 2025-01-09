@@ -76,12 +76,11 @@ Right now, I'm:
 <div>
 <h2>Main Projects</h2>
 
-
 [![Multi-Downloader](https://github-readme-stats.vercel.app/api/pin/?username=wilsondesouza&repo=Multi-Downloader&border_color=3366cc&theme=dark&text_color=FFF)](https://github.com/wilsondesouza/Multi-Downloader) 
 [![Home Page](https://github-readme-stats.vercel.app/api/pin/?username=wilsondesouza&repo=home-page&border_color=3366cc&theme=dark&text_color=FFF)](https://github.com/wilsondesouza/home-page)
+[![Projetos Front-End](https://github-readme-stats.vercel.app/api/pin/?username=wilsondesouza&repo=projetos-frontend&border_color=3366cc&theme=dark&text_color=FFF)](https://github.com/wilsondesouza/projetos-frontend)
 [![Calculadora DST](https://github-readme-stats.vercel.app/api/pin/?username=wilsondesouza&repo=Descubra-seu-dano&border_color=3366cc&theme=dark&text_color=FFF)](https://github.com/wilsondesouza/Descubra-seu-dano)
 [![Guarda Dados](https://github-readme-stats.vercel.app/api/pin/?username=wilsondesouza&repo=guarda_dados&bg_color=151515&border_color=3366cc&theme=dark&text_color=FFF)](https://github.com/wilsondesouza/guarda_dados)
-[![Projetos Front-End](https://github-readme-stats.vercel.app/api/pin/?username=wilsondesouza&repo=projetos-frontend&border_color=3366cc&theme=dark&text_color=FFF)](https://github.com/wilsondesouza/projetos-frontend)
 [![Power BI](https://github-readme-stats.vercel.app/api/pin/?username=wilsondesouza&repo=power-bi&border_color=3366cc&theme=dark&text_color=FFF)](https://github.com/wilsondesouza/power-bi)
 
 </div>
