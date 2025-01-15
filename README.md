@@ -88,6 +88,7 @@ Right now, I'm:
 <div><br>
   <h2>Certifications</h2>
   <a href="assets/certificates/AWS_Cloud_Practitioner.pdf"><img align="center" alt="AWS" height="75" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"/></a>
+  <a href="assets/certificates/Microsoft_Azure_Fundamentals.pdf"><img align="center" alt="Azure" height="75" src="https://learn.microsoft.com/pt-br/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg"/></a>
 </div>
 
 <div><br>
