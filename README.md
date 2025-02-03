@@ -93,6 +93,7 @@ Right now, I'm:
 
 <div><br>
     <h2>Courses</h2>
+    <a href="assets/courses/AZ-204.pdf"><img align="center" alt="AI 204" height="75" src="https://hermes.dio.me/tracks/b88f117f-829e-4546-8f0b-4560ce423108.png"/></a>
     <a href="assets/courses/Prompts_Inteligentes.pdf"><img align="center" alt="Prompts Inteligentes" height="75" src="https://hermes.dio.me/tracks/1d580249-1ba9-48c4-8ddc-0d7110d529bb.png"/></a>
     <a href="assets/courses/NEXA_Analise_Imagem-IA.pdf"><img align="center" alt="Análise de Imagens - NEXA" height="75" src="https://hermes.dio.me/tracks/7079a815-f166-41e0-ac0b-6e021bb4d6a1.png"/></a>
     <a href="assets/courses/GitHub_Copilot.pdf"><img align="center" alt="GitHub Copilot" height="75" src="https://hermes.dio.me/tracks/7054e1ad-ac10-4b36-bce0-1e8275f714bf.png"/></a>
