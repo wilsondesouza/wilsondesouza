@@ -77,18 +77,20 @@ Right now, I'm:
 <h2>Main Projects</h2>
 
 [![Multi-Downloader](https://github-readme-stats.vercel.app/api/pin/?username=wilsondesouza&repo=Multi-Downloader&border_color=3366cc&theme=dark&text_color=FFF)](https://github.com/wilsondesouza/Multi-Downloader) 
+[![Multi-Downloader Mobile](https://github-readme-stats.vercel.app/api/pin/?username=wilsondesouza&repo=multi_downloader_mobile&border_color=3366cc&theme=dark&text_color=FFF)](https://github.com/wilsondesouza/multi_downloader_mobile) 
 [![Home Page](https://github-readme-stats.vercel.app/api/pin/?username=wilsondesouza&repo=home-page&border_color=3366cc&theme=dark&text_color=FFF)](https://github.com/wilsondesouza/home-page)
-[![Projetos Front-End](https://github-readme-stats.vercel.app/api/pin/?username=wilsondesouza&repo=projetos-frontend&border_color=3366cc&theme=dark&text_color=FFF)](https://github.com/wilsondesouza/projetos-frontend)
+[![Portal dos Dobradores](https://github-readme-stats.vercel.app/api/pin/?username=wilsondesouza&repo=portal-dobradores&border_color=3366cc&theme=dark&text_color=FFF)](https://github.com/wilsondesouza/portal-dobradores)
 [![Calculadora DST](https://github-readme-stats.vercel.app/api/pin/?username=wilsondesouza&repo=Descubra-seu-dano&border_color=3366cc&theme=dark&text_color=FFF)](https://github.com/wilsondesouza/Descubra-seu-dano)
 [![Guarda Dados](https://github-readme-stats.vercel.app/api/pin/?username=wilsondesouza&repo=guarda_dados&bg_color=151515&border_color=3366cc&theme=dark&text_color=FFF)](https://github.com/wilsondesouza/guarda_dados)
-[![Power BI](https://github-readme-stats.vercel.app/api/pin/?username=wilsondesouza&repo=power-bi&border_color=3366cc&theme=dark&text_color=FFF)](https://github.com/wilsondesouza/power-bi)
+
 
 </div>
 
 <div><br>
   <h2>Certifications</h2>
-  <a href="assets/certificates/AWS_Cloud_Practitioner.pdf"><img align="center" alt="AWS" height="75" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"/></a>
-  <a href="assets/certificates/Microsoft_Azure_Fundamentals.pdf"><img align="center" alt="Azure" height="75" src="https://learn.microsoft.com/pt-br/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg"/></a>
+  <a href="assets/certificates/AWS_Cloud_Practitioner.pdf"><img align="center" alt="AWS Practitioner" height="75" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"/></a>
+  <a href="assets/certificates/Microsoft_Azure_Fundamentals.pdf"><img align="center" alt="Azure Fundamentals" height="75" src="https://learn.microsoft.com/pt-br/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg"/></a>
+  <a href="assets/certificates/Microsoft_Azure_AI_Fundamentals.pdf"><img align="center" alt="Azure AI Fundamentals" height="75" src="https://learn.microsoft.com/pt-br/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg"/></a>
 </div>
 
 <div><br>
