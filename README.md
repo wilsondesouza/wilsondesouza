@@ -9,16 +9,16 @@
 
 </div>
 
-I am passionate about technology and extremely focused on my goals.
+I am passionate about artificial intelligence and automation, and extremely focused on my goals.
 You can go know a little more about me and my projects on my [Website](https://wsj.sytes.net/)
 
 Right now, I'm:
- - 📚 Studying Computer Engineering
- - 🏢 Looking for an opportunity as an internship or a job
- - 🚧 Developing my own projects
+ - 📚 Undergraduate in Computer Engineering
+ - 🏢 Looking for a job or an opportunity as trainee
+ - 🚧 Developing my own projects (Aurora Ecosystem)
  - 🔬 Specializing in Artificial Intelligence, IoT and Cloud.
- - 🎮 Playing Cyberpunk
- - 🎻 Looking to learn Violin
+ - 🎮 Playing The Outer Worlds 2
+ - 🎻 Looking to learn Violin (yet)
 
 <br>
 
@@ -28,60 +28,66 @@ Right now, I'm:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilsondesouza&layout=compact&langs_count=7&border_color=3366cc&theme=dark&text_color=FFF"/>
 </div>
 
-<div><br>
+<div>
+  <br>
     <img src="https://i.ibb.co/Wf3dg6Q/laptop.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
     <details>
-  <summary><b>🚀Programming Languages</b></summary>
+      <summary><b>🧠 Artificial Intelligence</b></summary>
+        <img align="center" alt="PyTorch" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg">
+        <img align="center" alt="BitsAndBytes" height="30" width="40" src="https://avatars.githubusercontent.com/u/34270187?s=200&v=4">
+        <img align="center" alt="Librosa" height="30" width="40" src="https://avatars.githubusercontent.com/u/50126833?s=200&v=4">
+        <img align="center" alt="SciPy" height="30" width="40" src="https://avatars.githubusercontent.com/u/50126833?s=200&v=4">
+    </details>
+    <br>
+    <details>
+      <summary><b>🚀Programming Languages</b></summary>
         <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
         <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
     </details>
     <br>
-      <details>
-  <summary><b>🛠️Frameworks</b></summary>
+    <details>
+      <summary><b>☁️Cloud</b></summary>
+        <img align="center" alt="AWS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg">
+        <img align="center" alt="Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
+    </details>
+      <br>
+    <details>
+      <summary><b>🛠️Frameworks</b></summary>
         <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
         <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-        <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-        </details>
+    </details>
     <br>
-      <details>
-  <summary><b>🌐Web</b></summary>
+    <details>
+      <summary><b>🌐Web</b></summary>
         <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
         <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
         <img align="center" alt="Blockchain" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/8757/8757988.png">
-        </details>
+    </details>
     <br>
-      <details>
-  <summary><b>🗄️Databases</b></summary>
-        <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+    <details>
+      <summary><b>🗄️Databases</b></summary>
         <img align="center" alt="Oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
         <img align="center" alt="SQLite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">   
-        </details>
+    </details>
     <br>
-      <details>
-  <summary><b>☁️Cloud</b></summary>
-      <img align="center" alt="AWS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg">
-      <img align="center" alt="Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
-        </details>
-    <br>
-      <details>
-  <summary><b>🔧Tools</b></summary>
-      <img align="center" alt="Android Studio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg">
-      <img align="center" alt="VS Code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-      <img align="center" alt="Kali Linux" height="30" width="40" src="https://camo.githubusercontent.com/9fd512a4acfb5d076a0f358507efc6886911a0f555274491f0308ec55b0738fc/68747470733a2f2f706c61792d6c682e676f6f676c6575736572636f6e74656e742e636f6d2f583233626e72344d37455145464e3236755f4961716164506a4767564f44697631385a55507377772d55576a415f6d37596b4979517668774453335268667244683057553d773234302d683438302d7277">
-        </details>
-    <br>
+    <details>
+      <summary><b>🔧Tools</b></summary>
+        <img align="center" alt="Android Studio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg">
+        <img align="center" alt="VS Code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+        <img align="center" alt="Kali Linux" height="30" width="40" src="https://camo.githubusercontent.com/9fd512a4acfb5d076a0f358507efc6886911a0f555274491f0308ec55b0738fc/68747470733a2f2f706c61792d6c682e676f6f676c6575736572636f6e74656e742e636f6d2f583233626e72344d37455145464e3236755f4961716164506a4767564f44697631385a55507377772d55576a415f6d37596b4979517668774453335268667244683057553d773234302d683438302d7277">
+    </details>
   <br>
 </div>
 
 <div>
 <h2>Main Projects</h2>
 
-[![Multi-Downloader](https://github-readme-stats.vercel.app/api/pin/?username=wilsondesouza&repo=Multi-Downloader&border_color=3366cc&theme=dark&text_color=FFF)](https://github.com/wilsondesouza/Multi-Downloader) 
-[![Multi-Downloader Mobile](https://github-readme-stats.vercel.app/api/pin/?username=wilsondesouza&repo=multi_downloader_mobile&border_color=3366cc&theme=dark&text_color=FFF)](https://github.com/wilsondesouza/multi_downloader_mobile) 
+[![AuroraEchoTales](https://github-readme-stats.vercel.app/api/pin/?username=wilsondesouza&repo=AuroraEchoTales&border_color=3366cc&theme=dark&text_color=FFF)](https://github.com/wilsondesouza/AuroraEchoTales) 
+[![VisionAI](https://github-readme-stats.vercel.app/api/pin/?username=wilsondesouza&repo=VisionAI&border_color=3366cc&theme=dark&text_color=FFF)](https://github.com/wilsondesouza/VisionAI) 
+[![AlertSystem](https://github-readme-stats.vercel.app/api/pin/?username=wilsondesouza&repo=AlertSystem&border_color=3366cc&theme=dark&text_color=FFF)](https://github.com/wilsondesouza/AlertSystem)
+[![MetricsHub](https://github-readme-stats.vercel.app/api/pin/?username=wilsondesouza&repo=MetricsHub&border_color=3366cc&theme=dark&text_color=FFF)](https://github.com/wilsondesouza/MetricsHub)
 [![Home Page](https://github-readme-stats.vercel.app/api/pin/?username=wilsondesouza&repo=home-page&border_color=3366cc&theme=dark&text_color=FFF)](https://github.com/wilsondesouza/home-page)
-[![Portal dos Dobradores](https://github-readme-stats.vercel.app/api/pin/?username=wilsondesouza&repo=portal-dobradores&border_color=3366cc&theme=dark&text_color=FFF)](https://github.com/wilsondesouza/portal-dobradores)
-[![Calculadora DST](https://github-readme-stats.vercel.app/api/pin/?username=wilsondesouza&repo=Descubra-seu-dano&border_color=3366cc&theme=dark&text_color=FFF)](https://github.com/wilsondesouza/Descubra-seu-dano)
-[![Guarda Dados](https://github-readme-stats.vercel.app/api/pin/?username=wilsondesouza&repo=guarda_dados&bg_color=151515&border_color=3366cc&theme=dark&text_color=FFF)](https://github.com/wilsondesouza/guarda_dados)
+[![Followverso](https://github-readme-stats.vercel.app/api/pin/?username=wilsondesouza&repo=following-followers&bg_color=151515&border_color=3366cc&theme=dark&text_color=FFF)](https://github.com/wilsondesouza/following-followers)
 
 
 </div>
@@ -95,6 +101,8 @@ Right now, I'm:
 
 <div><br>
     <h2>Courses</h2>
+    <a href="assets/courses/Python_Backend.pdf"><img align="center" alt="Python Backend" height="75" src="https://hermes.dio.me/tracks/82b55a48-d99f-4cd2-b2a0-a6747bdb39c5.png"/></a>
+    <a href="assets/courses/Python_Developer.pdf"><img align="center" alt="Python Developer" height="75" src="https://hermes.dio.me/tracks/e7c3f5d7-2110-477f-bf11-068724326cc1.png"/></a>
     <a href="assets/courses/AZ-204.pdf"><img align="center" alt="AI 204" height="75" src="https://hermes.dio.me/tracks/b88f117f-829e-4546-8f0b-4560ce423108.png"/></a>
     <a href="assets/courses/Prompts_Inteligentes.pdf"><img align="center" alt="Prompts Inteligentes" height="75" src="https://hermes.dio.me/tracks/1d580249-1ba9-48c4-8ddc-0d7110d529bb.png"/></a>
     <a href="assets/courses/NEXA_Analise_Imagem-IA.pdf"><img align="center" alt="Análise de Imagens - NEXA" height="75" src="https://hermes.dio.me/tracks/7079a815-f166-41e0-ac0b-6e021bb4d6a1.png"/></a>
