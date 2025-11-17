@@ -34,9 +34,9 @@ Right now, I'm:
     <details>
       <summary><b>🧠 Artificial Intelligence</b></summary>
         <img align="center" alt="PyTorch" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg">
-        <img align="center" alt="BitsAndBytes" height="30" width="40" src="https://avatars.githubusercontent.com/u/34270187?s=200&v=4">
-        <img align="center" alt="Librosa" height="30" width="40" src="https://avatars.githubusercontent.com/u/50126833?s=200&v=4">
-        <img align="center" alt="SciPy" height="30" width="40" src="https://avatars.githubusercontent.com/u/50126833?s=200&v=4">
+        <img align="center" alt="BitsAndBytes" height="30" width="40" src="https://repository-images.githubusercontent.com/373674258/6f2ff326-b5d0-46e3-8809-2afa0b260766">
+        <img align="center" alt="Librosa" height="30" width="40" src="https://avatars.githubusercontent.com/u/18124827?s=200&v=4">
+        <img align="center" alt="SciPy" height="30" width="40" src="https://scipy.org/images/logo.svg">
     </details>
     <br>
     <details>
