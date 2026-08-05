@@ -26,7 +26,7 @@ Right now, I'm:
 <div align="center">
   <a href="https://github.com/wilsondesouza">
   <img height="180em" src="https://github-stats-extended.vercel.app/api?username=wilsondesouza&hide_title=true&show_icons=true&include_all_commits=true&theme=vision-friendly-dark"/>
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=wilsondesouza&layout=donut&hide_title=true&langs_count=6&hide_values=true&theme=vision-friendly-dark"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=wilsondesouza&layout=donut&hide_title=true&langs_count=6&theme=vision-friendly-dark"/>
 </div>
 
 <div>
@@ -46,7 +46,6 @@ Right now, I'm:
         <img align="center" alt="OpenVAS" height="30" width="40" src="https://avatars.githubusercontent.com/u/31986857?v=4">
         <img align="center" alt="Suricata" height="30" width="40" src="https://suricata.io/wp-content/uploads/2023/09/Logo-Suricata-vert-whitetype-R.png">
         <img align="center" alt="Wazuh" height="30" width="40" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/wazuh.svg">
-
     </details>
     <br>
     <details>
