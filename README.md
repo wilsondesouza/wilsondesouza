@@ -46,6 +46,7 @@ Right now, I'm:
         <img align="center" alt="OpenVAS" height="30" width="40" src="https://avatars.githubusercontent.com/u/31986857?v=4">
         <img align="center" alt="Suricata" height="30" width="40" src="https://suricata.io/wp-content/uploads/2023/09/Logo-Suricata-vert-whitetype-R.png">
         <img align="center" alt="Wazuh" height="30" width="40" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/wazuh.svg">
+
     </details>
     <br>
     <details>
