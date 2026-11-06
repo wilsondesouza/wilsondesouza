@@ -107,6 +107,7 @@ Right now, I'm:
 
 <div><br>
     <h2>Courses</h2>
+    <a href="assets/courses/Endpoint_Security.pdf"><img align="center" alt="Endpoint Security" height="75" src="https://images.credly.com/images/0ca5f542-fb5e-4a22-9b7a-c1a1ce4c3db7/EndpointSecurity.png"/></a>
     <a href="assets/courses/Cybersecurity_Analyst.pdf"><img align="center" alt="Cybersecurity Analyst" height="75" src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/e141b254-6fe2-43f4-a63c-1e0ba3d854f2.png"/></a>
     <a href="assets/courses/Network_Technician.pdf"><img align="center" alt="Network Technician" height="75" src="https://images.credly.com/size/340x340/images/978f88dc-c247-4093-9d39-6efac3651297/image.png"/></a>
     <a href="assets/courses/Python_Backend.pdf"><img align="center" alt="Python Backend" height="75" src="https://hermes.dio.me/tracks/82b55a48-d99f-4cd2-b2a0-a6747bdb39c5.png"/></a>
